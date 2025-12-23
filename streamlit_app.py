@@ -10,11 +10,6 @@ from PIL import Image
 #import plotly as px
 #import plotly.figure_factory as ff
 
-#https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d
-
-
-https://acrobat.adobe.com/id/urn:aaid:sc:US:f6753253-82dc-4bb6-9dda-745896a2ab49
-
 """
 # Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects!
 This is inspired from the StreamLit.io site.
