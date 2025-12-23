@@ -14,6 +14,7 @@ from PIL import Image
 
 #https://acrobat.adobe.com/id/urn:aaid:sc:US:f6753253-82dc-4bb6-9dda-745896a2ab49?x_api_client_id=edge_extension_viewer&x_api_client_location=share&locale=en-US&theme=light&page_theme=light&viewer%21megaVerb=group-discover
 
+https://acrobat.adobe.com/id/urn:aaid:sc:US:f6753253-82dc-4bb6-9dda-745896a2ab49
 
 """
 # Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects!
